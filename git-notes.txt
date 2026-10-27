@@ -1,0 +1,7 @@
+Git Practice Notes
+git init - initialize a git repository
+git status - check the repository status
+git add - stage files
+git commit - save a snapshot of changes
+git log - view commit history
+git push - upload commits to github
